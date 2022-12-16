@@ -8,7 +8,7 @@ Utenti di DragonCraft, siete invitati a prendere visione del seguente regolament
 
 > L'amministrazione potrebbe modificare il regolamento in qualsiasi momento, questo significa che l'utente è tenuto ad informarsi periodicamente su eventuali modifiche. La mancata presa visione o comprensione del regolamento non può essere usata come giustificazione per un'eventuale trasgressione del regolamento.
 
-Riteniamo opportuno ricordarvi che i giocatori non sono autorizzati all'utilizzo di cheats che li avvantaggino rispetto agli altri. Per rendere sicuro il Network, oltre che aver implementato un sistema anti-cheats, abbiamo deciso di autorizzare i nostri Staffer ad eseguire controlli in modo manuale, seguendo dei regolamenti interni tramite le quali non potrà avvenire nessuna violazione della privacy. (Con programmi appositi e legalmente autorizzati, come AnyDesk, TeamViewer.)
+Riteniamo opportuno ricordarvi che i giocatori non sono autorizzati all'utilizzo di cheats che li avvantaggino rispetto agli altri. Per rendere sicuro il Network, oltre che aver implementato un sistema anti-cheats, abbiamo deciso di autorizzare i nostri Staffer ad eseguire controlli in modo manuale, seguendo dei regolamenti interni tramite le quali non potrà avvenire nessuna violazione della privacy. (Con programmi appositi e legalmente autorizzati, come AnyDesk, TeamViewer.)*
 
 1) Se le regole non verranno rispettate, i membri dello staff di DragonCraft si riservano il diritto di procedere con una sanzione verso l'utente trasgressore.
 
@@ -94,3 +94,5 @@ Le sanzioni con relative tempistiche:
 I comportamenti punibili con il permaban sono a discrezione dell'accaduto e principalemente a decisione dello staffer.
 
 Vi auguriamo una buona permanenza all'interno del nostro Server.
+
+> * A tutela si fa riferimento all'articolo 8 EU RGPD
