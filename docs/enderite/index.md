@@ -9,6 +9,16 @@ metaDescription: "This is the meta description"
 
 ![img](https://i.imgur.com/t7LEiah.png?1)
 
+# CRAFTING
+
+> **I carfting degli oggetti in enderite si craftano in questo modo**
+
+> Primo passaggio
+![img](https://cdn.discordapp.com/attachments/953577396773212190/1064989003423686727/image.png)
+
+> Secondo passaggio
+![img](https://cdn.discordapp.com/attachments/953577396773212190/1064989003599855666/image.png)
+
 > Il minerale dell'enderite si trova dopo il livello -30 a -59 nei seguenti biomi
 > - FROZEN_OCEAN
 >  - BADLANDS
