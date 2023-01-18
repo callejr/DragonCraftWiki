@@ -18,7 +18,7 @@ Riteniamo opportuno ricordarvi che i giocatori non sono autorizzati all'utilizzo
 
 4) Nessun utente può divulgare informazioni dello staff senza autorizzazione di quest'ultimo.
 
-5) Sono vietati nickname inopportuni contenenti caratteri non leggibili, caratteri speciali, parole bandite, bestemmie, ecc.
+5) Sono vietati nickname inopportuni contenenti caratteri non leggibili, caratteri speciali, parole bandite, bestemmie, ecc. Vi invitiamo inoltre nel server a modificare i nickname solo ed esclusivamente per estetica e/o abbreviazioni del nome, è vietato l'occultamento del nome totale.
 
 6) È severamente vietato l'utilizzo di nickname appartenenti a persone di un certo rilievo o di membri dello staff.
 
