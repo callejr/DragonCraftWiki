@@ -77,17 +77,17 @@ Nei Ticket NON possono per nessuno motivo essere fatti screenshot per poi mandar
 ## « SANZIONI »
 
 Le sanzioni con relative tempistiche:
-  - Insulti Omofobi ***20m - 1h***
-  - Insulti Razzisti                                                 ***20m - 1h***
-  - Flame                                                                ***20m - 1h***
-  - Spam                                                                 ***20m***
-  - Omertà nei confronti dello staff                  ***6h***
-  - Griefing                                                             ***2d***
-  - Utilizzo di Xray                                                ***3h - 1d + cancellazione dell'inventario***
-  - Bug Abuse                                                             ***(a discrezione dell'accaduto)***
-  - Cheating                                                           ***7d - 30d   -> (Ammissione: 3d - 14d)***
-  - Exploit                                                               ***PERMABAN***
-  - Tentata rovina del server dall'interno         ***PERMABAN***
+**Insulti Omofobi** - MUTE dai 20m - 1h
+**Insulti Razzisti** - MUTE dai 20m - 1h
+**Flame** - MUTE dai 20m - 1h
+**Spam** - MUTE dai 20m
+**Omertà nei confronti dello staff** - MUTE di 6h
+**Griefing** - BAN dai 2d
+**Utilizzo di Xray** - BAN dai 3h - 1d + cancellazione dell'inventario
+**Bug Abuse (a discrezione dell'accaduto)** - BAN
+**Cheating** - BAN dai 7d - 30d -> (Ammissione: 3d - 14d)
+**Exploit** - PERMABAN
+**Tentata rovina del server dall'interno** - PERMABAN
 
 ## « COMPORTAMENTI PUNIBILI CON IL PERMABAN »
 
