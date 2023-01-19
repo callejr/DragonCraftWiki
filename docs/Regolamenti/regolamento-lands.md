@@ -28,8 +28,10 @@ metaTitle: "Regolamento Lands"
 
 12) Vietato l'utilizzo di qualsiasi stratagemma finalizzato all'elusione dei limiti e delle regole della modalità.
 
-13) Vietato creare ponti/iceroad per collegare le città.
+13) Vietato creare ponti/iceroad/tunnel sotterranei per collegare le città.
 
-14) È consentito lo scam(non ecessivo).
+14) È severamente vietato il griefing di prossimità. 
 
-15) È consentito creare trappole nella propria città. 
+15) È consentito lo scam(non ecessivo).
+
+16) È consentito creare trappole nella propria città. 
