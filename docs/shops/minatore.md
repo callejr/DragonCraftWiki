@@ -26,12 +26,12 @@ Accessibile tramite **/warp Minatore**
 **VENDI**
 - x1 Blocco di ametista Ɣ2.0
 - x32 Carbone Ɣ50.0
-- x32 Lingotto di ferro Ɣ90.0
+- x32 Lingotto di ferro Ɣ110.0
 - x32 Polvere di redstone Ɣ125.0
 - x32 Lingotto d'oro Ɣ85.0
 - x16 Diamante Ɣ750.0
 - x32 Scheggia di ametista Ɣ50.0
-- x32 Smeraldo Ɣ25.0
+- x32 Smeraldo Ɣ100.0
 - x1 Lingotto di netherite Ɣ1250.0
 - x32 Lingotto di rame Ɣ35.0
 - x32 Quarzo del Nether Ɣ35.0
