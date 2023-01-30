@@ -5,7 +5,6 @@ metaDescription: "This is the meta description"
 ---
 # INFORMAZIONI
 
-> **Attenzione**! La conversione delle armi e armature deve essere fatta in items SENZA enchant, altrimenti il crafting non verrà accettato! Solo gli enchant custom possono essere upgradati da grado a grado, per esempio da "Ossa infette I" a "Ossa infette II", senza altri enchant vanilla. (Esempio Affilatezza, Ripristino etc.)
 
 ![img](https://i.imgur.com/t7LEiah.png?1)
 
