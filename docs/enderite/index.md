@@ -8,7 +8,7 @@ metaDescription: "This is the meta description"
 
 ![img](https://i.imgur.com/t7LEiah.png?1)
 
-# CRAFTING
+## CRAFTING
 
 ### **I carfting degli oggetti in enderite si craftano in questo modo**
 
