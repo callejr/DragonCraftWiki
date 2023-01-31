@@ -75,15 +75,16 @@ Le Assistenze NON possono per nessuno motivo essere registrate, pena PERMABAN
 Nei Ticket NON possono per nessuno motivo essere fatti screenshot per poi mandarli ad altri utenti, pena BAN a discrezione dello staffer
 
 ## « SANZIONI »
+Le sanzioni qui presenti sono a scopo indicativo, quindi uno staffer ha pieno potere di diminuire o specie aumentare la tempistica della sanzione.
 
 Le sanzioni con relative tempistiche:
-**Insulti Omofobi** - MUTE dai 20m - 1h
-**Insulti Razzisti** - MUTE dai 20m - 1h
-**Flame** - MUTE dai 20m - 1h
+**Insulti Omofobi** - MUTE dai 30m - 6h
+**Insulti Razzisti** - MUTE dai 30m - 6h
+**Flame** - MUTE dai 30m - 6h
 **Spam** - MUTE dai 20m
-**Omertà nei confronti dello staff** - MUTE di 6h
+**Omertà nei confronti dello staff** - MUTE di 12h
 **Griefing** - BAN dai 2d
-**Utilizzo di Xray** - BAN dai 3h - 1d + cancellazione dell'inventario
+**Utilizzo di Xray** - BAN dalle 6h - 2d + cancellazione dell'inventario
 **Bug Abuse (a discrezione dell'accaduto)** - BAN
 **Cheating** - BAN dai 7d - 30d -> (Ammissione: 3d - 14d)
 **Exploit** - PERMABAN
@@ -91,7 +92,8 @@ Le sanzioni con relative tempistiche:
 
 ## « COMPORTAMENTI PUNIBILI CON IL PERMABAN »
 
-I comportamenti punibili con il permaban sono a discrezione dell'accaduto e principalemente a decisione dello staffer.
+I comportamenti punibili con il permaban sono a discrezione dell'accaduto e decisione dello staffer.
+Si cerchera di evitare il permaban con sanzioni maggiori ai 60 giorni.
 
 Vi auguriamo una buona permanenza all'interno del nostro Server.
 
