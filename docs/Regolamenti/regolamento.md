@@ -84,7 +84,7 @@ Le sanzioni con relative tempistiche:
 **Spam** - MUTE dai 20m
 **Omertà nei confronti dello staff** - MUTE di 12h
 **Griefing** - BAN dai 2d
-**Utilizzo di Xray** - BAN dalle 6h - 2d + cancellazione dell'inventario
+**Utilizzo di Xray** - cancellazione degli oggetti presi
 **Bug Abuse (a discrezione dell'accaduto)** - BAN
 **Cheating** - BAN dai 7d - 30d -> (Ammissione: 3d - 14d)
 **Exploit** - PERMABAN
