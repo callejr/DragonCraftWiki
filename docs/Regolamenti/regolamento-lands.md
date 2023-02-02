@@ -6,7 +6,7 @@ metaTitle: "Regolamento Lands"
 
 1) Vietato uccidere gli altri giocatori durante gli eventi.
 
-2) Vietato uccidere/grieffare un nuovo giocatore nelle prime 48 ore, tale regola non sarà più valida nel caso in cui la motivazione dell'uccisione sia per autodifesa.
+2) Vietato uccidere/grieffare un nuovo giocatore nelle prime 48 ore(da quando entrato nel server), tale regola non sarà più valida nel caso in cui la motivazione dell'uccisione sia per autodifesa.
 
 3) Vietato attaccare/grieffare/raidare/derubare le città che sono state create da meno di 72 ore.
 
