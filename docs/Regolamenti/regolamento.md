@@ -77,18 +77,30 @@ Nei Ticket NON possono per nessuno motivo essere fatti screenshot per poi mandar
 ## « SANZIONI »
 Le sanzioni qui presenti sono a scopo indicativo, quindi uno staffer ha pieno potere di diminuire o specie aumentare la tempistica della sanzione.
 
-Le sanzioni con relative tempistiche:\
-**Insulti Omofobi** - MUTE dai 30m - 6h\
-**Insulti Razzisti** - MUTE dai 30m - 6h\
-**Flame** - MUTE dai 30m - 6h\
-**Spam** - MUTE dai 20m\
-**Omertà nei confronti dello staff** - MUTE di 12h\
-**Griefing** - BAN dai 2d\
-**Utilizzo di Xray** - cancellazione degli oggetti presi\
-**Bug Abuse (a discrezione dell'accaduto)** - BAN\
-**Cheating** - BAN dai 7d - 30d -> (Ammissione: 3d - 14d)\
-**Exploit** - PERMABAN\
-**Tentata rovina del server dall'interno** - PERMABAN\
+Le sanzioni con relative tempistiche:
+
+**Insulti Omofobi** - MUTE dai 30m - 6h
+
+**Insulti Razzisti** - MUTE dai 30m - 6h
+
+**Flame** - MUTE dai 30m - 6h
+
+**Spam** - MUTE dai 20m
+
+**Omertà nei confronti dello staff** - MUTE di 12h
+
+**Griefing** - BAN dai 2d
+
+**Utilizzo di Xray** - cancellazione degli oggetti presi
+
+**Bug Abuse (a discrezione dell'accaduto)** - BAN
+
+**Cheating** - BAN dai 7d - 30d -> (Ammissione: 3d - 14d)
+
+**Exploit** - PERMABAN
+
+**Tentata rovina del server dall'interno** - PERMABAN
+
 
 ## « COMPORTAMENTI PUNIBILI CON IL PERMABAN »
 
