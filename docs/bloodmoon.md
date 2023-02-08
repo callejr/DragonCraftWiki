@@ -5,9 +5,9 @@ metaDescription: "This is the meta description"
 ---
 # INFORMAZIONI GENERALI
 
-Durante questo evento tutti i mostri diventano più forti, e ogni mob ucciso rilascia minerali e materiali. La Blood-Moon avviene ogni 7 giorni durante la notte e oltre ai classici mob, possono nascere alcune entità custom esclusive di questo evento.
+Durante questo evento tutti i mostri diventano più forti e ogni mostro che verrà ucciso rilascerà minerali e materiali bonus. La **Blood-Moon** avviene una volta ogni 7 giorni di gioco, oltre ai classici mostri, nasceranno dei mostri esclusivi di DragonCraft.
 
-### CREATURE CUSTOM
+### Mostri che potresti incontrare durante la Blood-Moon
 
 #### Sanguigno
 

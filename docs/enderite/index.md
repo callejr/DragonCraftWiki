@@ -10,7 +10,7 @@ metaDescription: "This is the meta description"
 
 ## CRAFTING
 
-### **I carfting degli oggetti in enderite si craftano in questo modo**
+### **Come potenziare un'oggetto da netherite a enderite:**
 
 #### Primo passaggio
 
@@ -36,5 +36,5 @@ metaDescription: "This is the meta description"
  - WINDSWEPT_FOREST
  - FLOWER_FOREST
 
-> Disponibile solo nel mondo risorse e si può cuicere solo nelle fornaci normali.
+> Disponibile solo nel mondo risorse e si può cuocere solo nelle fornaci normali.
 > Ricordiamo che è possibile vedere gli item in enderite solo se scaricate la resource pack del server ottenibile tramite le impostazioni di risorse del server del vostro minecraft
