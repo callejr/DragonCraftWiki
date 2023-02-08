@@ -6,17 +6,17 @@ Utenti di DragonCraft, siete invitati a prendere visione del seguente regolament
 
 ## « REGOLAMENTO GENERALE »
 
-> L'amministrazione potrebbe modificare il regolamento in qualsiasi momento, questo significa che l'utente è tenuto ad informarsi periodicamente su eventuali modifiche. La mancata presa visione o comprensione del regolamento non può essere usata come giustificazione per un'eventuale trasgressione del regolamento.
+> L'amministrazioe può modificare il regolamento in qualsiasi momento, questo significa che l'utente è tenuto ad informarsi periodicamente su eventuali modifiche. La mancata presa visione o comprensione del regolamento non può giustificare un eventuale trasgressione del regolamento.
 
-Riteniamo opportuno ricordarvi che i giocatori non sono autorizzati all'utilizzo di cheats che li avvantaggino rispetto agli altri. Per rendere sicuro il Network, oltre che aver implementato un sistema anti-cheats, abbiamo deciso di autorizzare i nostri Staffer ad eseguire controlli in modo manuale, seguendo dei regolamenti interni tramite le quali non potrà avvenire nessuna violazione della privacy. (Con programmi appositi e legalmente autorizzati, come AnyDesk, TeamViewer.)*
+Riteniamo opportuno ricordarvi che i giocatori non sono autorizzati all'utilizzo di cheats che li avvantaggino rispetto agli altri. Per rendere sicuro il Network, oltre che aver implementato un sistema anti-cheat, abbiamo deciso di autorizzare i nostri Staffer ad eseguire controlli in modo manuale, seguendo dei regolamenti interni tramite le quali non potrà avvenire nessuna violazione della privacy. (Con programmi appositi e legalmente autorizzati, come AnyDesk.)*
 
-1) Se le regole non verranno rispettate, i membri dello staff di DragonCraft si riservano il diritto di procedere con una sanzione verso l'utente trasgressore.
+1) Se le regole non vengono rispettate, i membri dello staff di DragonCraft hanno il diritto di procedere con la sanzione relativa alla trasgressione commessa.
 
 2) Il regolamento è in continuo aggiornamento, nel caso non vi fosse presente una regola apposita, vige il buonsenso degli utenti.
 
 3) Se l'utente bannato cercherà in qualunque modo di eludere il ban, lo staff si riserva il diritto di allontanalro permanentemente dal server.
 
-4) Nessun utente può divulgare informazioni dello staff senza autorizzazione di quest'ultimo.
+4) Nessun utente può divulgare informazioni dello staff senza l'autorizzazione di quest'ultimo.
 
 5) Sono vietati nickname inopportuni contenenti caratteri non leggibili, caratteri speciali, parole bandite, bestemmie, ecc. Vi invitiamo inoltre a modificarlo solamente per estetica e/o abbreviazioni del nome. È severamente vietato cambiarlo in altri modi.
 
@@ -97,9 +97,11 @@ Le sanzioni con relative tempistiche:
 
 **Cheating** - BAN dai 7d - 30d -> (Ammissione: 3d - 14d)
 
-**Exploit** - PERMABAN
+**Ban Evading** - Ban Permanente
 
-**Tentata rovina del server dall'interno** - PERMABAN
+**Exploit** - Ban Permanente
+
+**Tentata rovina del server dall'interno** - Ban Permanente
 
 
 ## « COMPORTAMENTI PUNIBILI CON IL PERMABAN »
