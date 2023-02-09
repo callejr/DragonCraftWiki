@@ -91,7 +91,7 @@ Le sanzioni con relative tempistiche:
 
 **Griefing** - BAN dai 2d
 
-**Utilizzo di Xray** - cancellazione degli oggetti presi
+**Utilizzo di Xray** - Cancellazione degli oggetti presi
 
 **Bug Abuse (a discrezione dell'accaduto)** - BAN
 
