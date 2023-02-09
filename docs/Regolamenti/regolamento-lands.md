@@ -2,36 +2,40 @@
 title: "Regolamento Lands"
 metaTitle: "Regolamento Lands"
 ---
-> L'amministrazioe potrebbe modificare il regolamento in qualsiasi momento, questo significa che l'utente è tenuto ad informarsi periodicamente su eventuali modifiche. La mancata presa visione o comprensione del regolamento non può essere usata come giustificazione per un'eventuale trasgressione del regolamento.
+> L'amministrazioe può modificare il regolamento in qualsiasi momento, questo significa che l'utente è tenuto ad informarsi periodicamente su eventuali modifiche. La mancata presa visione o comprensione del regolamento non può giustificare un eventuale trasgressione del regolamento.
 
-1) Vietato uccidere gli altri giocatori durante gli eventi.
+1) È vietato qualsiasi tipo di duplicazione.
 
-2) Vietato uccidere/grieffare un nuovo giocatore nelle prime 48 ore(da quando entrato nel server), tale regola non sarà più valida nel caso in cui la motivazione dell'uccisione sia per autodifesa.
+2) È vietato uccidere/grieffare un nuovo giocatore nelle prime 48 ore(da quando entrato nel server), tale regola non sarà più valida nel caso in cui la motivazione dell'uccisione sia per autodifesa.
 
-3) Vietato attaccare/grieffare/raidare/derubare le città che sono state create da meno di 72 ore.
+3) È vietato attaccare/grieffare/raidare/derubare le città che sono state create da meno di 72 ore.
 
-4) Vietato claimare zone per ostacolare l'espanzione di una città.
+4) È severamente vietato claimare dei chunk per impedire l'espansione di un altra landa.
 
-5) Vietato creare "cittá tattiche" solo per avere punti di spawn o eludere i vari limiti delle città.
+5) È vietato creare "Cittá tattiche" per avere un punto di generazione strategico a danno di un altra landa.
 
-6) Vietato costruire lavacast/fiumi di lava o acqua in wilderness(natura selvaggia).
+6) È vietato costruire Fiumi/Torri di lava o acqua nei territori liberi (Wilderness).
 
-7) Vietato cacciare un giocatore dalla città senza ridargli i suoi oggetti.
+7) È vietato cacciare un giocatore da una Landa nella quale ha costruito/depositato costruzioni/oggetti di sua appartenenza.
 
-8) Vietato uccidere ripetutamente un giocatore.
+8) È vietato uccidere un giocatore ripetutamente quando spawna.
 
-9) Vietato creare trappole che non permettono di eseguire comandi. Questa regola vale solo se l'intrappolato rimane bloccato senza morire. Nel caso venga ucciso da altre fonti la trappola è valida.
+9) È vietato creare trappole che non permettono al giocatore di eseguire comandi e di conseguenza continuare a giocare. In caso la trappola uccide il giocatore al suo interno riportandolo allo spawn è valida
 
-10) Vietato costruire strutture con qualsiasi riferimento a forze politiche attuali o passate.
+10) Vietato costruire strutture o scrivere in chat messaggi riferiti a movimenti politici attuali o passati.
 
-11) Vietato invitare in città un giocatore entrato da meno di 15 giorni all'unico scopo di ucciderlo senza valide motivazioni.
+11) È vietato invitare un giocatore nella propia landa con il solo scopo di ucciderlo.
 
-12) Vietato l'utilizzo di qualsiasi stratagemma finalizzato all'elusione dei limiti e delle regole della modalità.
+12) È vietato l'utilizzo di qualsiasi stratagemma/bug finalizzato all'elusione dei limiti e delle regole della modalità.
 
-13) Vietato creare ponti/iceroad/tunnel sotterranei per collegare le città.
+13) È vietato creare ponti/iceroad/tunnel sotterranei per collegare le città a distanza maggiore di 3 Chunks (48 Blocchi).
 
-14) È severamente vietato il griefing di prossimità. 
+14) È severamente vietato il grief di prossimità di qualunque tipologia. 
 
-15) È consentito lo scam(non ecessivo).
+15) È consentito il grief ad una distanza di 3 chunk da una landa (48 Blocchi)
 
-16) È consentito creare trappole nella propria città. 
+15) È consentito qualsiasi tipologia di truffa legata a scambi in gioco se non nell'apposita zona di scambio.
+
+16) È permesso creare trappole nella propia landa, a patto che non contraddicano la regola 9.
+
+17) È ammesso uccidere un giocatore in territori liberi.
