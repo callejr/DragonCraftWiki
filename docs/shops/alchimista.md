@@ -18,11 +18,13 @@ Accessibile tramite **/warp Alchimista**
 - x1 Pozione di resistenza al fuoco Ɣ250.0
 - x1 Pozione di respirazione acquatica Ɣ250.0
 - x1 Soffio di drago Ɣ2500.0
+- x32 Crema di magma Ɣ200.0
 
 **VENDI**
 - x32 Membrana di phantom Ɣ160.0
 - x64 Verruca del Nether Ɣ100.0
 - x16 Lacrima di ghast Ɣ250.0
 - x16 Verga di blaze Ɣ100.0
+- x32 Crema di magma Ɣ45.0
 
 ![Imgur](https://imgur.com/4UQGxeT.png)
