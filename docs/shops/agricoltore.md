@@ -28,6 +28,7 @@ Accessibile tramite **/warp Agricoltore**
 - x64 Semi di barbabietola Ɣ10.0
 - x64 Semi di grano Ɣ10.0
 - x64 Semi di anguria Ɣ15.0
+- x64 Bacche luminose Ɣ85.0
 - x64 Fave di cacao Ɣ50.0
 - x4 Mela Ɣ25.0
 - x64 Grano Ɣ85.0
