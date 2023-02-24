@@ -30,12 +30,16 @@ metaTitle: "Regolamento Lands"
 
 13) È vietato creare ponti/iceroad/tunnel sotterranei per collegare le città a distanza maggiore di 3 Chunks (48 Blocchi).
 
-14) È severamente vietato il grief di prossimità di qualunque tipologia. 
+14) È vietato impostare una home all'interno di una landa nemica per l'unico scopo di potersi teletrasportare al suo interno per uccidere gli altri giocatori.
 
-15) È consentito il grief ad una distanza di 3 chunk da una landa (48 Blocchi)
+15) È severamente vietato il tpa kill/tpahere kill ovverto teletrasportare un giocatore a se per ucciderlo.
 
-15) È consentito qualsiasi tipologia di truffa legata a scambi in gioco se non nell'apposita zona di scambio.
+16) È severamente vietato il grief di prossimità di qualunque tipologia. 
 
-16) È permesso creare trappole nella propia landa, a patto che non contraddicano la regola 9.
+17) È consentito il grief ad una distanza di 3 chunk da una landa (48 Blocchi)
 
-17) È ammesso uccidere un giocatore in territori liberi.
+18) È consentito qualsiasi tipologia di truffa legata a scambi in gioco se non nell'apposita zona di scambio.
+
+19) È permesso creare trappole nella propia landa, a patto che non contraddicano la regola 9.
+
+20) È ammesso uccidere un giocatore in territori liberi.
