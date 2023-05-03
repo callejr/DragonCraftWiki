@@ -2,7 +2,7 @@
 title: "Regolamento Lands"
 metaTitle: "Regolamento Lands"
 ---
-> L'amministrazioe può modificare il regolamento in qualsiasi momento, questo significa che l'utente è tenuto ad informarsi periodicamente su eventuali modifiche. La mancata presa visione o comprensione del regolamento non può giustificare un eventuale trasgressione del regolamento.
+> L'amministrazione può modificare il regolamento in qualsiasi momento, questo significa che l'utente è tenuto ad informarsi periodicamente su eventuali modifiche. La mancata presa visione o comprensione del regolamento non può giustificare un eventuale trasgressione del regolamento.
 
 1) È vietato qualsiasi tipo di duplicazione.
 
@@ -36,10 +36,12 @@ metaTitle: "Regolamento Lands"
 
 16) È severamente vietato il grief di prossimità di qualunque tipologia. 
 
-17) È consentito il grief ad una distanza di 3 chunk da una landa (48 Blocchi)
+17) È severamente vietato ricattare un giocatore.
 
-18) È consentito qualsiasi tipologia di truffa legata a scambi in gioco se non nell'apposita zona di scambio.
+18) È consentito il grief ad una distanza di 3 chunk da una landa (48 Blocchi)
 
-19) È permesso creare trappole nella propia landa, a patto che non contraddicano la regola 9.
+19) È consentito qualsiasi tipologia di truffa legata a scambi in gioco se non nell'apposita zona di scambio.
 
-20) È ammesso uccidere un giocatore in territori liberi.
+20) È permesso creare trappole nella propia landa, a patto che non contraddicano la regola 9.
+
+21) È ammesso uccidere un giocatore in territori liberi.
