@@ -6,7 +6,7 @@ Utenti di DragonCraft, siete invitati a prendere visione del seguente regolament
 
 ## « REGOLAMENTO GENERALE »
 
-> L'amministrazioe può modificare il regolamento in qualsiasi momento, questo significa che l'utente è tenuto ad informarsi periodicamente su eventuali modifiche. La mancata presa visione o comprensione del regolamento non può giustificare un eventuale trasgressione del regolamento.
+> L'amministrazione può modificare il regolamento in qualsiasi momento, questo significa che l'utente è tenuto ad informarsi periodicamente su eventuali modifiche. La mancata presa visione o comprensione del regolamento non può giustificare un eventuale trasgressione del regolamento.
 
 Riteniamo opportuno ricordarvi che i giocatori non sono autorizzati all'utilizzo di cheats che li avvantaggino rispetto agli altri. Per rendere sicuro il Network, oltre che aver implementato un sistema anti-cheat, abbiamo deciso di autorizzare i nostri Staffer ad eseguire controlli in modo manuale, seguendo dei regolamenti interni tramite le quali non potrà avvenire nessuna violazione della privacy. (Con programmi appositi e legalmente autorizzati, come AnyDesk.)*
 
