@@ -34,7 +34,7 @@ metaTitle: "Regolamento Lands"
 
 15) È severamente vietato il tpa kill/tpahere kill ovverto teletrasportare un giocatore a se per ucciderlo.
 
-16) È severamente vietato il grief di prossimità di qualunque tipologia. 
+16) È severamente vietato il grief sia dentro le lande sia quello di prossimità di qualunque tipologia. 
 
 17) È severamente vietato ricattare un giocatore.
 
