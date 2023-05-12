@@ -6,7 +6,7 @@ metaTitle: "Regolamento Lands"
 
 1) È vietato qualsiasi tipo di duplicazione.
 
-2) È vietato uccidere/grieffare un nuovo giocatore nelle prime 48 ore(da quando entrato nel server), tale regola non sarà più valida nel caso in cui la motivazione dell'uccisione sia per autodifesa.
+2) È vietato uccidere/grieffare un nuovo giocatore nelle prime 48 ore(da quando entrato nel server), tale regola non sarà più valida nel caso in cui la motivazione dell'uccisione sia per autodifesa e/o entrambi i giocatori ci sono da meno di 48 ore.
 
 3) È vietato attaccare/grieffare/raidare/derubare le città che sono state create da meno di 72 ore.
 
