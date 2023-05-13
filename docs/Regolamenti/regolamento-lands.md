@@ -16,7 +16,7 @@ metaTitle: "Regolamento Lands"
 
 6) È vietato costruire Fiumi/Torri di lava o acqua nei territori liberi (Wilderness).
 
-7) È vietato cacciare un giocatore da una Landa nella quale ha costruito/depositato costruzioni/oggetti di sua appartenenza.
+7) È vietato invitare e poi cacciare un giocatore da una Landa nella quale ha costruito/depositato costruzioni/oggetti di sua appartenenza per lo scopo di ottenere i suoi oggetti.
 
 8) È vietato uccidere un giocatore ripetutamente quando spawna.
 
@@ -38,7 +38,7 @@ metaTitle: "Regolamento Lands"
 
 17) È severamente vietato ricattare un giocatore.
 
-18) È consentito il grief ad una distanza di 3 chunk da una landa (48 Blocchi)
+18) È consentito il grief dopo una distanza di 3 chunk da una landa (48 Blocchi)
 
 19) È consentito qualsiasi tipologia di truffa legata a scambi in gioco se non nell'apposita zona di scambio.
 
