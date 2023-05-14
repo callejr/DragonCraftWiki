@@ -14,7 +14,7 @@ metaDescription: "This is the meta description"
 
 #### Primo passaggio
 
-![img](https://cdn.discordapp.com/attachments/953577396773212190/1064989003423686727/image.png)
+![img](https://media.discordapp.net/attachments/1080126782809853995/1105139853609422910/image.png?width=1419&height=676)
 
 #### Secondo passaggio
 
@@ -22,19 +22,6 @@ metaDescription: "This is the meta description"
 
 ---
 
-> Il minerale dell'enderite si trova dopo il livello -30 a -59 nei seguenti biomi
- - FROZEN_OCEAN
- - BADLANDS
- - DEEP_COLD_OCEAN
- - DEEP_OCEAN
- - JUNGLE
- - SPARSE_JUNGLE
- - DEEP_FROZEN_OCEAN
- - ERODED_BADLANDS
- - WOODED_BADLANDS
- - COLD_OCEAN
- - WINDSWEPT_FOREST
- - FLOWER_FOREST
+> Il minerale dell'enderite si trova nella dimensione dell'end molto in profondità
 
-> Disponibile solo nel mondo risorse e si può cuocere solo nelle fornaci normali.
 > Ricordiamo che è possibile vedere gli item in enderite solo se scaricate la resource pack del server ottenibile tramite le impostazioni di risorse del server del vostro minecraft
