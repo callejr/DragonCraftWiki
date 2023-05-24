@@ -30,9 +30,9 @@ metaTitle: "Regolamento Lands"
 
 13) È vietato creare ponti/iceroad/tunnel sotterranei per collegare le città a distanza maggiore di 3 Chunks (48 Blocchi).
 
-14) È vietato impostare una home all'interno di una landa nemica per l'unico scopo di potersi teletrasportare al suo interno per uccidere gli altri giocatori.
+14) È vietato impostare una home all'interno di una landa nemica per l'unico scopo di potersi teletrasportare al suo interno al fine di uccidere o danneggiare gli altri giocatori.
 
-15) È severamente vietato il tpa kill/tpahere kill ovverto teletrasportare un giocatore a se per ucciderlo.
+15) È severamente vietato il tpa kill/tpahere kill ovverto teletrasportare un giocatore per ucciderlo.
 
 16) È severamente vietato il grief sia dentro le lande sia quello di prossimità di qualunque tipologia. 
 
